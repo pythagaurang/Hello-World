@@ -1,3 +1,5 @@
+##program for hello world in python
+
 import time
 import os
 array=["H","e","l","l","o"," ","W","o","r","l","d"]
